@@ -19,3 +19,5 @@ operating on the PCA reduced LBP feature space of the image. The hand gesture cl
 also uses PCA to reduce the combined LBP-HOG feature space of the detected hand image. 
 Different classifiers are considered for gesture classification.
 
+Paper Here:
+https://drive.google.com/file/d/1kWMERgn-XyymAee51m9Erv-CuRdICfyd/view?usp=sharing 
